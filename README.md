@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is a (link)[derek ma resume march 2022.pdf] to my resume.
+Here is a [link](derek ma resume march 2022.pdf) to my resume.
 
 <!--
 **Prodlax/Prodlax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
